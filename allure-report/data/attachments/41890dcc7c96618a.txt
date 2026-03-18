@@ -1,0 +1,2 @@
+invalid selector: WebDriverError: invalid selector: An invalid or illegal selector was specified
+  (Session info: MicrosoftEdge=146.0.3856.62) when running "element" with method "POST"

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".cart_item:has(.inventory_item_name=Sauce Labs Backpack)"
+}

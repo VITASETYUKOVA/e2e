@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9394","should complete checkout successfully","UC-1 Checkout Flow","2026-03-19","passed","2026-03-19","","","",""
+"","7878","should complete checkout successfully","UC-1 Checkout Flow","2026-03-19","passed","2026-03-19","","","",""

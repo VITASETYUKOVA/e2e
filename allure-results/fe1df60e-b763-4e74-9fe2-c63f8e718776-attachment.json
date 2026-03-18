@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.inventory_item:has(div.inventory_item_name=Sauce Labs Backpack) button"
+}
