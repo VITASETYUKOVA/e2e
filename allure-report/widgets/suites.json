@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"aed604423fcc32334665ae969db7c584","name":"UC-1 Checkout Flow","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+{"total":2,"items":[{"uid":"6962b9432b9a8cc517e36b138bea5fb9","name":"UC-2 Data Driven Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}},{"uid":"aed604423fcc32334665ae969db7c584","name":"UC-1 Checkout Flow","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
