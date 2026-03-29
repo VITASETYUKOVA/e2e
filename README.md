@@ -2,11 +2,11 @@
 
 ## Setup
 1. Install dependencies: `npm install`
-2. Run tests: `npx wdio run src/configs/wdio.conf.js`
+2. Run tests: `npm run test`
 3. Generate Allure report:
    ```bash
-   allure generate allure-results --clean -o allure-report
-   allure open allure-report
+   npm run allure:generate
+   npm run allure:open
 
    This project contains **WebDriverIO end-to-end tests** for the [Sauce Demo](https://www.saucedemo.com/) website.  
 Tests are implemented using **Page Object Model (POM)** and a **data-driven approach**.
